@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 void exam(int m1,int m2,int m3)
 {
  if (m1 >=40 && m2>=40 && m3>=40)
