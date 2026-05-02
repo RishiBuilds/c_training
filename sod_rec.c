@@ -3,7 +3,7 @@ int sum_digits_recur(int n)
 {
     if(n==0)
     return;
-    int digit=n%10;
+    int digit= n%10;
      return digit+sum_digits_recur(n/10);
 }
 void main()
